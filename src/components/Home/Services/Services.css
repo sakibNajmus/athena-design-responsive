@@ -1,0 +1,13 @@
+.service-card{
+    border: 1px solid white;
+    background-color: white;
+    padding: 30px 5px 15px 5px;
+    border-radius: 70px 0 70px 0;
+    transition: all linear .3s;
+}
+
+.service-card:hover{
+    cursor: pointer;
+    background-color: white;
+    box-shadow: 1px 1px 30px lightgray;
+}

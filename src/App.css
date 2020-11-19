@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.btn-main{
+  background-image: linear-gradient(to right, #1ddab8, #0db9de);
+  border: 2px solid #1ddab8;
+  padding: 10px 27px;
+  border-radius: 20px 0 20px 0;
+  color: white;
+}
+
+.btn-main:hover{  
+  background-image: linear-gradient(to right, #ffffff, #ffffff);
+  border: 2px solid #1ddab8;
+  color: #1ddab8;
+}
