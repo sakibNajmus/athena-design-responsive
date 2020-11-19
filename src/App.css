@@ -44,10 +44,12 @@
   padding: 10px 27px;
   border-radius: 20px 0 20px 0;
   color: white;
+  transition: all linear .3s;
 }
 
 .btn-main:hover{  
   background-image: linear-gradient(to right, #ffffff, #ffffff);
   border: 2px solid #1ddab8;
   color: #1ddab8;
+  transition: all linear .3s;
 }
