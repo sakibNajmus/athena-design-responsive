@@ -1,0 +1,15 @@
+#about-us{
+    position: relative;
+}
+
+#about-us:before{
+    width: 100%;
+    height: 650px;
+    content: " ";
+    background-image: url(../../../resources/Illustration/about-bg.png);    
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0;
+    top: 0;
+}

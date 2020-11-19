@@ -11,3 +11,20 @@
     background-color: white;
     box-shadow: 1px 1px 30px lightgray;
 }
+
+#services{
+    background-color: #fafffd;
+    position: relative;
+}
+
+#services:before{
+    width: 100%;
+    height: 450px;
+    content: " ";
+    background-image: url(../../../resources/Illustration/Path\ 74.png);    
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0;
+    top: 0;
+}

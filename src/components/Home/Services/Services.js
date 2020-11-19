@@ -7,7 +7,8 @@ import illustration from '../../../resources/Illustration/Group 72@2x.png'
 
 const Services = () => {
     return (
-        <section id="services" className="container my-5">
+        <section id="services" className="mt-5">
+            <div className="container py-5">
             <div className="service-description text-center mb-5">
                 <h3>What we do</h3>
                 <p>Our main focus is to make the User Experience very <br/> simple and easy. Simplicity is our Strength</p>
@@ -42,6 +43,7 @@ const Services = () => {
                         <p>The point of using Lorem<br/>Ipsum is that it has a more-orless<br/>normal.</p>
                     </div>
                 </div>
+            </div>
             </div>
         </section>
     );

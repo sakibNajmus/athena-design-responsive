@@ -1,9 +1,11 @@
 import React from 'react';
+import './AboutUs.css'
 import aboutbanner from '../../../resources/Illustration/20 [Converted]@2x.png'
 
 const AboutUs = () => {
     return (
-        <section className="container my-5 pt-5">
+        <section id="about-us" className="pt-5">
+            <div className="container">
             <div className="row d-flex justify-content-center align-items-center">
                 <div className="col-md-6">
                     <img className="img-fluid" src={aboutbanner} alt=""/>
@@ -14,6 +16,7 @@ const AboutUs = () => {
                     <p className="my-4">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letter.</p>
                     <button className="btn-main">Contact Us</button>
                 </div>
+            </div>
             </div>
         </section>
     );
