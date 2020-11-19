@@ -53,3 +53,7 @@
   color: #1ddab8;
   transition: all linear .3s;
 }
+
+html{
+  scroll-behavior: smooth;
+}
