@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,7 +35,7 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
 
 
 .btn-main{
@@ -57,3 +57,54 @@
 html{
   scroll-behavior: smooth;
 }
+
+
+    /* Section Size CSS*/
+    .achievement-container{
+      height: 30%;
+      background-color: #ccffeb2f;
+  }
+  .order-container{
+      height: 50%;
+      background-color: #ccffeb2f;
+      
+  }
+  .offers-container{
+      height: 30%;
+      background-color: #ccffeb2f;
+      padding-top: 130px;
+  }
+  .footer-container{
+      height: 25%;
+      background-color: #ccffeb2f;
+  }
+
+
+/* 
+  @media (min-width: 576px) { 
+    .email-submit{
+      width: 70%!important;
+    }
+    .email-submit button{
+      width: 35%!important;
+    }   
+
+    .footer-center img li{
+    }
+   }  
+  
+  @media (min-width: 768px) { 
+    .achievement{
+      width:20%;
+  }
+   }
+  
+  
+  @media (min-width: 992px) {  }
+  
+  
+  @media (min-width: 1200px) {  } */
+  
+  
+   
+  
