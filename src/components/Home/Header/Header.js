@@ -24,10 +24,10 @@ const Header = () => {
                         <a class="nav-link" href="#services">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Pricing</a>
+                        <a class="nav-link" href="#team">Pricing</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Our Team</a>
+                        <a class="nav-link" href="#achievements">Our Team</a>
                     </li>
                     </ul>
                     

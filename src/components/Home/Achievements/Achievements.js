@@ -7,7 +7,7 @@ import transportation from '../../../resources/Illustration/transportation@2x.pn
 
 const Achievements = () => {
     return (
-        <section className="achievement-container py-5">
+        <section id="achievements" className="achievement-container py-5">
                 <div className="container"> 
             <div className="row pt-5">
                 <div className="col-md-5 p-5 ">
