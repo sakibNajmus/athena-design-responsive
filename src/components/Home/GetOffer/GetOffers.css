@@ -1,0 +1,27 @@
+
+  .email-submit{
+    width: 600px;
+    height: 55px;
+    background: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+}
+.email-submit input{
+    width: 80%;
+    border: none;
+    padding: 10px;
+}
+.email-submit button{
+    height: 40px;
+    background-image: linear-gradient(to right, #1ddab8, #0db9de);
+    color: white;
+    border: none;
+}
+.email-submit button:hover{  
+  background-image: linear-gradient(to right, #ffffff, #ffffff);
+  border: 2px solid #1ddab8;
+  color: #1ddab8!important;
+  transition: all linear .3s;
+}
+

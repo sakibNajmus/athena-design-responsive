@@ -1,0 +1,32 @@
+
+  .happy-clients{
+    width: 100%;
+    height: 135px;    
+    border-radius: 0px 80px;
+}
+.projects-completed{
+    width: 100%;
+    height: 135px;
+    border-radius: 80px 0px;
+}
+.crazy-minds{
+    width: 100%;
+    height: 135px;
+    border-radius: 80px 0px;
+}
+.running-projects{
+    width: 100%;
+    height: 135px;
+    border-radius: 0px 80px;
+}
+.achievement{
+    background-color: white;
+}
+.achievement:hover{
+    background-image: linear-gradient( 75deg,#0fcfec, #19D3AE);
+    color: #fff;
+    transition: .4s all ease-in-out!important;    
+}
+.achievement img{
+    width: 80%;    
+}
