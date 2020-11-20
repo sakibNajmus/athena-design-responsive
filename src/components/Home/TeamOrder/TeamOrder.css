@@ -8,13 +8,15 @@
     transition: all linear .3s!important;
 }
 .order-cart:hover{ 
+  cursor: pointer;
     border: 2px solid #1ddab8;    
     transition: all linear .3s;
   }
 
 .order-cart:hover .order-btn{
+  cursor: pointer;
     width: 120px;
-    color: grayscale;
+    color: gray;
     display: block!important;    
     margin-top: 40px!important;
     transition: all linear .3s!important; 

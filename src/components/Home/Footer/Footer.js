@@ -8,7 +8,7 @@ import dribbble from '../../../resources/Illustration/dribbble (1)@2x.png';
 
 const Footer = () => {
     return (
-        <footer className="footer-container pt-4 p-5 ">
+        <footer className="footer-container pt-5 p-5 ">
             <div className="container">
             <div className="row footer-center">
                 <div className="col-md-4 col-sm-12 ">

@@ -3,8 +3,8 @@ import React from 'react';
 const OrderCart = ({item}) => {
     const {price, order, workInfo, workInfo1, workInfo2, workInfo3, workInfo4, workInfo5, workInfo6} = item;
     return (
-        <div className="col-md-4 col-sm-12 mb-5">
-            <div className="order-cart rounded shadow pt-5 ">
+        <div className="col-md-4 col-sm-12">
+            <div className="order-cart rounded shadow pt-5 mb-3">
                 <h1 className="font-weight-bold">{price}</h1>
                 <p>{order} </p>
                 <hr className="bottom"/>

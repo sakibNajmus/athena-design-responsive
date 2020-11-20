@@ -23,6 +23,7 @@
     background-color: white;
 }
 .achievement:hover{
+    cursor: pointer;
     background-image: linear-gradient( 75deg,#0fcfec, #19D3AE);
     color: #fff;
     transition: .4s all ease-in-out!important;    

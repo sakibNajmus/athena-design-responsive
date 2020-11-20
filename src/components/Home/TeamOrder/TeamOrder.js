@@ -40,7 +40,7 @@ const orderDetails = [
 
 const TeamOrder = () => {
     return (
-        <section id="team" className="order-container">
+        <section id="team" className="order-container pt-5">
            <div className="container pt-5">
             <h2 className="text-center font-weight-bold m-2">Choose Your Dedicated Team</h2>
                 <div className="row text-center mt-5 p-3">

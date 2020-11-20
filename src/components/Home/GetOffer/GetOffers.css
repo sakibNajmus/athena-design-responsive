@@ -1,6 +1,4 @@
-
-  .email-submit{
-    width: 600px;
+.email-submit{
     height: 55px;
     background: white;
     text-align: center;
@@ -14,14 +12,16 @@
 }
 .email-submit button{
     height: 40px;
+    border-radius: 4px;
     background-image: linear-gradient(to right, #1ddab8, #0db9de);
+    border: 2px solid #1ddab8;
     color: white;
-    border: none;
+    transition: all linear .3s;
 }
 .email-submit button:hover{  
+  color: #0db9de;
   background-image: linear-gradient(to right, #ffffff, #ffffff);
   border: 2px solid #1ddab8;
-  color: #1ddab8!important;
   transition: all linear .3s;
 }
 
